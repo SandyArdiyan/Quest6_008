@@ -4,4 +4,4 @@ Tampilan Isi data
 
 Tampilan saat di submit
 
-<img width="350" height="773" alt="Screenshot 2025-11-21 163233" src="https://github.com/user-attachments/assets/0d5caf97-23d8-44cc-81b4-535c8cba1b9d" />
+<img width="371" height="772" alt="Screenshot 2025-11-21 163357" src="https://github.com/user-attachments/assets/63d18346-5f9e-4a72-ac1a-fdacb08d0303" />
