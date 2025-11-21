@@ -90,7 +90,8 @@ fun FormIsian(
             Button(
                 modifier = Modifier
                     .fillMaxWidth(0.8f)
-                    .padding(25.dp),
+                    .padding(30.dp),
+
                 onClick = {
                     // PERBAIKAN LOGIKA: Masukkan data ke list SAAT tombol diklik
                     val dataFinal = mutableListOf(txtNama, txtNGender, txtAlamat)
