@@ -55,7 +55,7 @@ fun TampilData(
                             text = item.second,
                             fontWeight = FontWeight.Bold,
                             fontFamily = FontFamily.Cursive,
-                            fontSize = 22.sp
+                            fontSize = 30.sp
                         )
                         Spacer(modifier = Modifier.height(10.dp))
                     }
