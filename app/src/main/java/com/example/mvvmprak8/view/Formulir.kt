@@ -60,7 +60,7 @@ fun FormIsian(
                 singleLine = true,
                 shape = MaterialTheme.shapes.medium,
                 modifier = Modifier
-                    .padding(top = 8.dp)
+                    .padding(top = 10.dp)
                     .fillMaxWidth(0.8f),
                 label = { Text(text = "Alamat Lengkap") },
                 onValueChange = { txtAlamat = it },
@@ -90,7 +90,7 @@ fun FormIsian(
             Button(
                 modifier = Modifier
                     .fillMaxWidth(0.8f)
-                    .padding(30.dp),
+                    .padding(25.dp),
 
                 onClick = {
                     // PERBAIKAN LOGIKA: Masukkan data ke list SAAT tombol diklik
